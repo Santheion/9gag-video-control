@@ -7,6 +7,7 @@
  
   "content_scripts": [{
     "js": ["content.js"],
+    "css": ["style.css"],
     "matches": ["https://9gag.com/*"]
   }]
  
